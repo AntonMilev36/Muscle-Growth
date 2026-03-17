@@ -16,7 +16,7 @@ The theory is separated into different files so we suggest to follow this order:
 This way the thisngs that are described in each file will make sence
 
 ## Resources
-All resources are placed in the .ipynb file in places where they'll make sence, but if you want to chack all, they are in the resources.txt
+All resources are placed in the .ipynb files in places where they'll make sence, but if you want to chack all, they are in the resources.txt
 
 ## Librarys
 The only used library is `import-ipynb`, but it is important. Without it some of the files will give errors
