@@ -21,5 +21,5 @@ All resources are placed in the .ipynb files in places where they'll make sence,
 ## Libraries
 The only used external library is `import-ipynb`, but it is important. Without it some of the files will give errors
 
-**Notes
+** Notes
 * In files where import is made form the base_formula file, its possible to see graphs under the import block. This is not correct! If you click on "Run All" button after the first load of this block, the problem will be fixed
