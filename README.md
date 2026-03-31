@@ -6,12 +6,13 @@ The goal of the project is to find a way to calculate the most optimal sets and 
 ## How to read the project
 The theory is separated into different files so we suggest to follow this order:
 1. problem_definition.ipynb
-2. base_formula.ipynb
-3. One of the factor files (the order for them is not important)
+2. formula_calibration.ipynb
+3. base_formula.ipynb
+4. One of the factor files (the order for them is not important)
     * recovery.ipynb
     * experience.ipynb
     * intensity.ipynb
-4. combined_formula.ipynb
+5. combined_formula.ipynb
 
 This way the things that are described in each file will make cense
 
